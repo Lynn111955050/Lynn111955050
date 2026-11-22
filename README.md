@@ -36,7 +36,6 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 ## 其他作品 · More Projects
 
-- **[DIVE World](https://github.com/Lynn111955050/diveWorld-AutoFocus-3-)**｜追蹤 JavaScript 互動遊戲的事件與狀態，協助除錯和維護。
 - **[校園設備借用](https://github.com/Lynn111955050/campus-equipment-reservation)**｜校園設備借用專案。
 - **Handsonme 手語學習系統**｜參與製作單字卡、配對遊戲與情境對話等互動教材。
 
