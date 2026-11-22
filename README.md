@@ -44,7 +44,7 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 把單字、配對練習和情境對話串成一套互動教材。學習者可以先用單字卡辨認手語，再做配對、翻牌等練習，最後透過語句測驗或情境對話複習。
 
-**我參與的部分**｜協作製作互動教材，包含單字卡、配對遊戲與情境對話。
+**我做了什麼**｜製作互動教材，包含單字卡、配對遊戲與情境對話，並且製作一套完整的數位教學系統。
 
 [觀看 Handsonme 展示影片](https://youtu.be/aH45txA8VDU?si=2NbJ82Gj5yX2XEDq)
 
