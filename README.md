@@ -2,7 +2,7 @@
 <p align="center"><strong>Mobile Apps · Software Engineering · Spatial Data</strong></p>
 <p align="center">National University of Tainan · Taiwan</p>
 
-我是 Lynn，國立臺南大學數位學習科技相關科系的學生。
+我是 Lynn，國立臺南大學數位學習科技學系的學生。
 目前作品累積有行動 App 及其他資訊系統，並關注使用者需求以及怎麼記錄、查詢與理解資料。目前的兩個個人作品分別從**記帳習慣**和**觀星預測**出發。
 
 I’m a student developer in Taiwan. I build mobile apps and explore how software, databases, and spatial data can help people make everyday decisions.
