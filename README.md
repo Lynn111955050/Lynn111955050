@@ -44,6 +44,23 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 [扭蛋記帳官方支援](https://github.com/Lynn111955050/gochaexpense-support)
 
+#### 扭蛋記帳實際畫面
+
+<table>
+  <tr>
+    <th scope="col">扭蛋機</th>
+    <th scope="col">寵物小屋</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./expense-gacha.png" alt="扭蛋記帳的扭蛋機頁面，顯示當月累積支出與各筆記帳的扭蛋" width="240"></td>
+    <td valign="top"><img src="./expense-pet-house.jpg" alt="扭蛋記帳的寵物小屋頁面，顯示寵物、等級、愛心與互動道具" width="240"></td>
+  </tr>
+  <tr>
+    <td valign="top">查看當月累積支出，每筆記帳以扭蛋呈現。</td>
+    <td valign="top">查看寵物等級與愛心，並選擇道具與寵物互動。</td>
+  </tr>
+</table>
+
 ### 🌌 觀星 App · Stargazing Planner
 
 **天氣資料 · 地圖 · 天象資料**
