@@ -7,6 +7,26 @@
 
 I’m a student developer in Taiwan. I build mobile apps and explore how software, databases, and spatial data can help people make everyday decisions.
 
+### Aspiring Software Engineer & Systems Architect 
+
+> 專注於 **軟體工程、系統重構與維護 (Refactoring & Debugging)**、**資料視覺化 (Data Visualization)** 與 **演算法應用**。具備扎實數理底子與跨領域專案統御經驗。
+
+---
+
+##  核心能力與學術基石 (Core Competencies)
+
+- **核心電腦科學底層 (Core CS Foundations)：**
+  - 資料結構 (Data Structures) — **91 分**
+  - 電腦圖學 (Computer Graphics) — **98 分**(全系第一名)
+  - 線性代數 (Linear Algebra) — **89 分**
+  - 視覺化程式設計 (Visual Programming) — **92 分**
+  - 系統分析與設計 (MIS) — **92 分**
+  - *跨選中：資工系作業系統 (OS)、電機系程式設計、資工資料庫系統*
+- **程式語言與開發工具：** C/C++,JavaScript , Python,  HTML5/CSS3, Git / GitHub
+- **軟體工程實務：** 狀態管理 (State Management)、Chrome DevTools 斷點除錯、WBS 專案時程管理、
+
+---
+
 ## 個人 App 開發專案 · Featured Apps
 
 ### 🎰 扭蛋記帳 · Cute Expense
@@ -67,29 +87,6 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 - **教學協助**｜擔任離散數學小幫手，也協助電腦圖學課程助教。
 - **協作經驗**｜擔任畢業專題副召集人及系學會副會長及各場合司儀，協助時程追蹤與跨組協調。
 
-<details>
-<summary>更多學習、專案與協作紀錄</summary>
-
-### Aspiring Software Engineer & Systems Architect 
-
-> 專注於 **軟體工程、系統重構與維護 (Refactoring & Debugging)**、**資料視覺化 (Data Visualization)** 與 **演算法應用**。具備扎實數理底子與跨領域專案統御經驗。
-
----
-
-##  核心能力與學術基石 (Core Competencies)
-
-- **核心電腦科學底層 (Core CS Foundations)：**
-  - 資料結構 (Data Structures) — **91 分**
-  - 電腦圖學 (Computer Graphics) — **98 分**(全系第一名)
-  - 線性代數 (Linear Algebra) — **89 分**
-  - 視覺化程式設計 (Visual Programming) — **92 分**
-  - 系統分析與設計 (MIS) — **92 分**
-  - *跨選中：資工系作業系統 (OS)、電機系程式設計、資工資料庫系統*
-- **程式語言與開發工具：** C/C++,JavaScript , Python,  HTML5/CSS3, Git / GitHub
-- **軟體工程實務：** 狀態管理 (State Management)、Chrome DevTools 斷點除錯、WBS 專案時程管理、
-
----
-
 ##  精選代表專案 (Featured Projects)
 
 ###  大二上 - JavaScript 互動遊戲系統除錯與架構維護
@@ -109,5 +106,3 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 ---
 📫 **聯絡方式 / Contact** a0975572026@gmail.com
 - **Location:** Taiwan
-
-</details>
