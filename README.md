@@ -6,7 +6,7 @@
 
 I’m a student developer in Taiwan. I build mobile apps and explore how software, databases, and spatial data can help people make everyday decisions.
 
-## 精選 App · Featured Apps
+## 個人 App 開發專案 · Featured Apps
 
 ### 🎰 扭蛋記帳 · Cute Expense
 
@@ -17,7 +17,7 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 - **記錄與回顧**｜新增、編輯或刪除收支，從月曆查找紀錄，透過週、月、年報表比較消費變化。
 - **扭蛋與養成**｜透過手機晃動觸發扭蛋互動，也能餵食寵物與佈置小屋。
 
-**我做的部分**｜用 Flutter 與 Dart 實作記帳流程，整合收支的新增、編輯與刪除，並讓使用者能從月曆與不同時間範圍的報表回看紀錄。扭蛋和寵物養成則接在記帳流程之後，為每次紀錄提供立即回饋。
+**我做了什麼**｜用 Flutter 與 Dart 實作記帳流程，整合收支的新增、編輯與刪除，並讓使用者能從月曆與不同時間範圍的報表回看紀錄。扭蛋和寵物養成則接在記帳流程之後，為每次紀錄提供立即回饋。
 
 *A Flutter expense tracker with calendar views, spending reports, and capsule-toy rewards.*
 
@@ -33,7 +33,7 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 - **地點天氣**｜依地點經緯度查詢氣象資料，協助比較不同位置的觀星條件。
 - **天象資料**｜用具版本的 JSON 清單管理天象事件、起訖時間與來源，供 App 更新顯示。
 
-**我做的部分**｜串接定位、地圖、地點座標與氣象查詢，將原本分開的資訊整理到同一個查詢流程。目前持續驗證預報與實際條件的差異。
+**我做了什麼**｜串接定位、地圖、地點座標與氣象查詢，將原本分開的資訊整理到同一個查詢流程。目前持續驗證預報與實際條件的差異。
 
 *A stargazing app project that combines weather, maps, and a maintained sky-event dataset.*
 
@@ -62,9 +62,9 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 ## 學習與協作 · Experience
 
-- **課程基礎**｜資料結構、電腦圖學、線性代數。另修習作業系統與資料庫系統。
-- **教學協助**｜擔任離散數學助教，也協助電腦圖學課程的資料整理與批改。
-- **專案協作**｜擔任畢業專題副召集人及系學會副會長，協助時程追蹤與跨組協調。
+- **課程基礎**｜微積分、計算機概論、資料結構、電腦圖學、線性代數。另修習作業系統與資料庫系統。
+- **教學協助**｜擔任離散數學小幫手，也協助電腦圖學課程助教。
+- **協作經驗**｜擔任畢業專題副召集人及系學會副會長及各場合司儀，協助時程追蹤與跨組協調。
 
 <details>
 <summary>更多學習、專案與協作紀錄</summary>
@@ -93,18 +93,12 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 ###  大二上 - JavaScript 互動遊戲系統除錯與架構維護
 - **核心職責：** 系統代碼閱讀、事件機制追蹤、邏輯除錯與渲染效能優化。
-- **工程價值：** 克服無文件維護挑戰，重構狀態控制與事件監聽器，展現獨立排錯與底層程式理解能力。
+- **工程價值：** 展現獨立排錯與底層程式理解能力。
 
-###  上架APP - 智慧決策與預算數據視覺化系統
+###  上架APP - 智慧決策與數據視覺化系統
 - **核心職責：** 全端應用架構規劃、資料視覺化圖表引擎串接、多條件檢索演算法落地。
 - **工程價值：** 模組化設計與響應式 UI/UX，善用flutter、dart語法以及 Generative AI 協同開發加速模組迭代與除錯。
 
----
-
-##  大型專案管理與領導力 (Leadership & Collaboration)
-
-- **畢業專題副召集人：** 導入甘特圖與時程追蹤，主導跨組模組整合、技術除錯與交付進度控管。
-- **系學會副會長：** 負責跨部門資源整合與校園大型活動統籌，具備高抗壓性與跨團隊溝通協調力。
 
 ---
 
