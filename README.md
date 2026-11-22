@@ -84,7 +84,7 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 ## 學習與協作 · Experience
 
 - **課程基礎**｜微積分、計算機概論、資料結構、電腦圖學、線性代數。另修習作業系統與資料庫系統。
-- **教學協助**｜擔任離散數學小幫手，也協助電腦圖學課程助教。
+- **教學協助**｜小幫手、助教：離散數學、電腦圖學
 - **協作經驗**｜擔任畢業專題副召集人及系學會副會長及各場合司儀，協助時程追蹤與跨組協調。
 
 ##  精選代表專案 (Featured Projects)
