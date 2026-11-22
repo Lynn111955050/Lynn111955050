@@ -32,8 +32,6 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 *A stargazing app project that combines weather, maps, and a maintained sky-event dataset.*
 
-[觀星 App 公開天象資料](https://github.com/Lynn111955050/stars-tonight-data)
-
 ## 其他作品 · More Projects
 
 - **[校園設備借用](https://github.com/Lynn111955050/campus-equipment-reservation)**｜校園設備借用專案。
