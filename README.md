@@ -2,7 +2,7 @@
 <p align="center"><strong>Mobile Apps · Software Engineering · Spatial Data</strong></p>
 <p align="center">National University of Tainan · Taiwan</p>
 
-我是 Lynn，目前就讀國立臺南大學數位學習科技相關科系。我喜歡把日常問題做成實用的小工具，特別關注行動應用、資料庫與地圖介面。
+我是 Lynn，國立臺南大學數位學習科技相關科系的學生。我主要做行動 App，關注使用者怎麼記錄、查詢與理解資料。目前的兩個個人作品分別從**記帳習慣**和**觀星地點選擇**出發。
 
 I’m a student developer in Taiwan. I build mobile apps and explore how software, databases, and spatial data can help people make everyday decisions.
 
@@ -12,10 +12,12 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 **Flutter · Dart · 行動應用**
 
-把記帳做成有回饋的日常習慣。每記一筆收支，就能得到一顆扭蛋，讓每筆紀錄和收藏、養成連在一起。
+**我想解決的問題**｜記帳需要每天做，但紀錄完很容易就關掉。這個 App 讓每筆收支紀錄都能換一顆扭蛋，讓記帳本身更有回饋，也有理由回來看自己的紀錄。
 
 - **記錄與回顧**｜新增、編輯或刪除收支，從月曆查找紀錄，透過週、月、年報表比較消費變化。
 - **扭蛋與養成**｜透過手機晃動觸發扭蛋互動，也能餵食寵物與佈置小屋。
+
+**我做的部分**｜用 Flutter 與 Dart 實作記帳流程，整合收支的新增、編輯與刪除，並讓使用者能從月曆與不同時間範圍的報表回看紀錄。扭蛋和寵物養成則接在記帳流程之後，為每次紀錄提供立即回饋。
 
 *A Flutter expense tracker with calendar views, spending reports, and capsule-toy rewards.*
 
@@ -25,17 +27,29 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 **天氣資料 · 地圖 · 天象資料**
 
-從「今晚去哪裡看星星？」出發，探索如何把天氣和地點資訊整理在一起，幫助使用者比較不同位置的觀星條件。
+**我想解決的問題**｜同一個晚上，不同地點的天氣條件可能差很多。這個 App 從「今晚去哪裡看星星？」出發，讓使用者從地圖選地點，再查那個位置的天氣與觀星條件。
 
-- **觀星條件**｜用地圖與天氣資訊協助比較地點，並持續驗證預報與實際條件的差異。
-- **天象資料**｜維護具版本的 JSON 天象清單，記錄事件起訖時間與資料來源，供 App 更新顯示。
+- **地圖與定位**｜顯示觀星地點，並用 GPS 定位查看目前位置附近的選擇。
+- **地點天氣**｜依地點經緯度查詢氣象資料，協助比較不同位置的觀星條件。
+- **天象資料**｜用具版本的 JSON 清單管理天象事件、起訖時間與來源，供 App 更新顯示。
+
+**我做的部分**｜串接定位、地圖、地點座標與氣象查詢，將原本分開的資訊整理到同一個查詢流程。目前持續驗證預報與實際條件的差異。
 
 *A stargazing app project that combines weather, maps, and a maintained sky-event dataset.*
+
+## 團隊作品 · Team Project
+
+### 🤟 Handsonme 手語學習系統
+
+把單字、配對練習和情境對話串成一套互動教材。學習者可以先用單字卡辨認手語，再做配對、翻牌等練習，最後透過語句測驗或情境對話複習。
+
+**我參與的部分**｜協作製作互動教材，包含單字卡、配對遊戲與情境對話。
+
+[觀看 Handsonme 展示影片](https://youtu.be/aH45txA8VDU?si=2NbJ82Gj5yX2XEDq)
 
 ## 其他作品 · More Projects
 
 - **[校園設備借用](https://github.com/Lynn111955050/campus-equipment-reservation)**｜校園設備借用專案。
-- **Handsonme 手語學習系統**｜參與製作單字卡、配對遊戲與情境對話等互動教材。
 
 ## 技術工具 · Technologies
 
