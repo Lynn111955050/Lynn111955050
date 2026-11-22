@@ -58,6 +58,23 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
 
 *A stargazing app project that combines weather, maps, and a maintained sky-event dataset.*
 
+#### App 實際畫面
+
+<table>
+  <tr>
+    <th scope="col">地圖選點</th>
+    <th scope="col">觀星評估</th>
+  </tr>
+  <tr>
+    <td valign="top"><img src="./stargazing-map.png" alt="嘉義市觀星推薦地圖，顯示候選地點和光害圖層" width="240"></td>
+    <td valign="top"><img src="./stargazing-forecast.png" alt="觀星評估畫面，顯示等待夜色轉深的建議、天空覆蓋比例、月亮狀態與降雨機率" width="240"></td>
+  </tr>
+  <tr>
+    <td valign="top">從嘉義市的候選地點選點，在光害圖層上查看周邊條件。</td>
+    <td valign="top">查看觀星建議，並閱讀天空覆蓋比例、月亮狀態與降雨機率。</td>
+  </tr>
+</table>
+
 ## 團隊作品 · Team Project
 
 ### 🤟 Handsonme 手語學習系統
