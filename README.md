@@ -20,7 +20,7 @@ I’m a student developer in Taiwan. I build mobile apps and explore how softwar
   - 電腦圖學 (Computer Graphics) — **98 分**(全系第一名)
   - 線性代數 (Linear Algebra) — **89 分**
   - 視覺化程式設計 (Visual Programming) — **92 分**
-  - 系統分析與設計 (MIS) — **92 分**
+  - 管理資訊系統 (MIS) — **92 分**
   - *跨選中：資工系作業系統 (OS)、電機系程式設計、資工資料庫系統*
 - **程式語言與開發工具：** C/C++,JavaScript , Python,  HTML5/CSS3, Git / GitHub
 - **軟體工程實務：** 狀態管理 (State Management)、Chrome DevTools 斷點除錯、WBS 專案時程管理、
